@@ -1,0 +1,23 @@
+{
+  "name": "Twit",
+  "version": "1.0.0",
+  "description": "Command line NodeJS app, returning most recent tweets posted by the user",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuszwszola/Twit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuszwszola/Twit/issues"
+  },
+  "homepage": "https://github.com/mateuszwszola/Twit#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
