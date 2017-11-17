@@ -16,7 +16,7 @@ function printError(error) {
 function printMessage(username, tweet) {
   const tweetText = tweet[0].text;
   const tweetCreatedAt = tweet[0].created_at;
-  const message = `The latest ${username} tweet is ${tweetText}, and was created at ${tweetCreatedAt}`;
+  const message = `The latest ${username} tweet is ${tweetText}, and was created at ${tweetCreatedAt}.`;
   console.log(message);
 }
 
