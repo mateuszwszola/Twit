@@ -1,4 +1,6 @@
-// const tweet = require('./tweet');
-// tweet.get();
+const search = require('./search');
 
-console.log('npm start work!');
+const users = process.argv.slice(2);
+users.forEach(user => {
+  search.get(user);
+});
