@@ -1,5 +1,5 @@
 {
-  "name": "Twit",
+  "name": "twit-project",
   "version": "1.0.0",
   "description": "Command line NodeJS app, returning most recent tweets posted by the user",
   "main": "app.js",
