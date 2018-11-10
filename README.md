@@ -1,2 +1,3 @@
-# Twit
-Command line NodeJS app, returning most recent tweets posted by the user
+# GetTweets
+
+Node.js command line application. It returns the most recent tweets posted by the user on twitter.com
